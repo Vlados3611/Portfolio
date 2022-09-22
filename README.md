@@ -8,7 +8,7 @@
 <div style="background-color: white;">
 <div style="background-color: rgb(1, 1, 1);" class="gif-background">
 <div style="text-align: center;">
-<img style="height: 200px;" src="giphy (1)-1.gif">
+<img style="height: 200px;" src="giphy (1)-2.gif">
 </div>
 </div>
 <div style="color: rgb(50, 50, 50); font-size: 28px;font-family: Arial; font-weight: bold; width: 95%; background-color: rgb(250, 250, 250); padding-left: 20px; border-radius: 20px; margin-top: 20px;">Knowledge and skills:</div>
