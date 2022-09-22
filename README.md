@@ -16,6 +16,7 @@
 <div style="text-align: center; background-color: rgb(250, 250, 250); padding-top: 20px; padding-bottom: 20px; border-radius; 30px;">
 <img style="width: 230px;" src="gensyxa-github.jpg">
 <img style="width: 230px;" src="Platinum.github.jpg">
+<img style="width: 230px;" src="LuxuryLaser-github.jpg">
 </div>
 <div style="margin-top: 30px;">
 <div style="font-family: Arial; font-size: 20px; font-weight: bold; margin-bottom: 20px; color: rgb(50, 50, 50); background-color: rgb(250, 250, 250); padding-left: 20px; width: 95%; border-radius: 20px;">Languages and Tools:</div>
