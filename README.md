@@ -7,7 +7,7 @@
 <div background-color = "rgb(1, 1, 1);">
 <img style="height: 200px; margin-left: 150px;" src="giphy (1).gif">
 </div>
-<div style="color: rgb(50, 50, 50); font-size: 28px;font-family: Arial; font-weight: bold; width: 95%; background-color: rgb(250, 250, 250); padding-left: 20px; border-radius: 20px; margin-top: 20px;">Knowledge and skills:</div>
+<div color = "rgb(50, 50, 50)" font-size = "28px;font-family: Arial" font-weight = "bold; width: 95%" background-color = "rgb(250, 250, 250); padding-left: 20px" border-radius = "20px; margin-top: 20px">Knowledge and skills:</div>
 <div style="font-family: Arial; font-size: 20px; font-weight: bold; margin-bottom: 20px; color: rgb(50, 50, 50); background-color: rgb(250, 250, 250); padding-left: 20px; width: 95%; border-radius: 20px; margin-top: 30px;">Some projects from my work:</div>
 <div style="text-align: center; background-color: rgb(250, 250, 250); padding-top: 20px; padding-bottom: 20px; border-radius; 30px;">
 <img style="width: 230px;" src="gensyxa-github.jpg">
