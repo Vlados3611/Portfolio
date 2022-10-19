@@ -34,7 +34,7 @@
 <img style="width: 230px;" src="Platinum.github.jpg">
 <img style="width: 230px;" src="LuxuryLaser-github.jpg">
 <img style="width: 230px;" src="127.0.0.1_5501_GeekGroup.html.png">
-<img style="width: 230px;" src="127.0.0.1_5506_sushi-page.png">
+<img style="width: 230px;" src="127.0.0.1_5506_sushi-page-1.png">
 </div>
 
 
