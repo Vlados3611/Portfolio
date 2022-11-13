@@ -15,6 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=for-the-badge&logo=HTML5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=for-the-badge&logo=CSS3&logoColor=lightblue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=)
+![JavaScript](https://img.shields.io/badge/-React.js-yellow?style=for-the-badge&logo=React&logoColor=)
 ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-yellow?style=for-the-badge&logo=adobephotoshop&logoColor=blue)
 ![Figma](https://img.shields.io/badge/-Figma-yellow?style=for-the-badge&logo=Figma&logoColor=orange)
 ![Tilda](https://img.shields.io/badge/-Tilda-yellow?style=for-the-badge&logo=TildaPublishing&logoColor=orange)
