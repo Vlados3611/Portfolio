@@ -1,6 +1,6 @@
 ![Header](https://github.com/Vlados3611/Portfolio/blob/master/giphy%20(1)-1.gif)
 ## Hello🖐, my name is Vladyslav Penkin
-#### I`ve been into front-end for a very long time. I had a lot of orders on the freelance platform.
+#### I`ve been into front-end for a very long time.
 
 #### You can also find me at codewars:
 
