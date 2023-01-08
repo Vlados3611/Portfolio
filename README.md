@@ -16,9 +16,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=for-the-badge&logo=CSS3&logoColor=lightblue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=)
 ![JavaScript](https://img.shields.io/badge/-React.js-yellow?style=for-the-badge&logo=React&logoColor=)
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python&logoColor=orange)
 ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-yellow?style=for-the-badge&logo=adobephotoshop&logoColor=blue)
 ![Figma](https://img.shields.io/badge/-Figma-yellow?style=for-the-badge&logo=Figma&logoColor=orange)
-![Tilda](https://img.shields.io/badge/-Tilda-yellow?style=for-the-badge&logo=TildaPublishing&logoColor=orange)
 ![SQL](https://img.shields.io/badge/-SQL-yellow?style=for-the-badge&logo=SQL&logoColor=black)
 
 ### Socials:
